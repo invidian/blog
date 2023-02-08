@@ -17,6 +17,6 @@ params:
   ShowCodeCopyButtons: true
   comments: true
   editPost:
-    URL: "https://github.com/invidian/blog/content"
+    URL: "https://github.com/invidian/blog/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
