@@ -1,0 +1,22 @@
+baseURL: https://invidian.github.io/blog/
+languageCode: en-us
+title: Mateusz Gozdek
+theme: PaperMod
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+disqusShortname: invidian
+params:
+  ShowBreadCrumbs: true
+  ShowToc: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+  editPost:
+    URL: "https://github.com/invidian/blog/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
